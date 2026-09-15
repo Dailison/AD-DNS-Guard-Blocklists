@@ -1,142 +1,135 @@
-! Title: 2D Adult Content Blocklist (Top 100)
-! Description: Bloqueio dos 100 sites adultos/pornográficos mais acessados. Formato AdGuard (bloqueia domínio + subdomínios).
+! Title: 2D Adult Sites Blocklist (Brasil - Top 100)
+! Description: Bloqueio dos 100 sites adultos/pornograficos mais acessados no Brasil. Formato AdGuard (bloqueia dominio + subdominios).
 ! Homepage: https://github.com/Dailison/ADGuard-Blocklists
 ! Syntax: AdGuard
-! Version: 1.0.0
+! Version: 2.0.0
 ! Last modified: 2026-09-15
 !
 ! Como usar no AdGuard:
 !   Configuracoes -> Filtros -> Filtros personalizados -> Adicionar filtro personalizado
-!   Cole a URL "raw" deste arquivo no GitHub.
+!   Cole a URL "raw" deste arquivo no GitHub:
+!   https://raw.githubusercontent.com/Dailison/ADGuard-Blocklists/main/adult-sites.txt
 !
 ! -----------------------------------------------------------------------------
-! Tube / streaming
+! Tubes internacionais (dominam o trafego no Brasil)
 ! -----------------------------------------------------------------------------
-||pornhub.com^
-||pornhubpremium.com^
 ||xvideos.com^
-||xvideos4.com^
 ||xnxx.com^
-||xnxx-cdn.com^
+||pornhub.com^
 ||xhamster.com^
-||xhamster.desi^
-||xhamster2.com^
-||xhamster3.com^
-||xhamsterlive.com^
 ||redtube.com^
 ||youporn.com^
-||youporngay.com^
 ||tube8.com^
 ||spankbang.com^
-||spankwire.com^
+||beeg.com^
 ||eporner.com^
 ||txxx.com^
-||upornia.com^
 ||hclips.com^
+||upornia.com^
 ||hqporner.com^
 ||porntrex.com^
-||sunporno.com^
-||porn.com^
-||porndig.com^
-||pornhd.com^
-||porndoe.com^
-||pornone.com^
-||porngo.com^
-||porn300.com^
-||porn4days.com^
-||xmoviesforyou.com^
-||beeg.com^
+||youjizz.com^
 ||drtuber.com^
 ||nuvid.com^
-||vporn.com^
-||empflix.com^
+||sunporno.com^
+||porn.com^
+||pornhd.com^
 ||tnaflix.com^
+||empflix.com^
+||porndig.com^
+||thumbzilla.com^
+||motherless.com^
+||slutload.com^
+||porn300.com^
+||xmoviesforyou.com^
+||yespornplease.com^
+||pornktube.com^
+||perfectgirls.net^
+||porngo.com^
+||spankwire.com^
+||vporn.com^
 ||fux.com^
 ||porntube.com^
-||youjizz.com^
-||perfectgirls.net^
+||4tube.com^
 ||porn555.com^
 ||okporn.com^
 ||pornhat.com^
-||yespornplease.com^
-||thumbzilla.com^
-||fapster.xxx^
-||fapvid.com^
-||pornktube.com^
+||camwhores.tv^
+||sex.com^
+||pornpics.com^
+||porndoe.com^
+||pornone.com^
 !
 ! -----------------------------------------------------------------------------
-! Cams / live
+! Brasil / nacional
+! -----------------------------------------------------------------------------
+||privacy.com.br^
+||fatalmodel.com^
+||sexlog.com^
+||cameraprive.com^
+||brasileirinhas.com.br^
+||pornodoido.com^
+||mecvideos.com^
+||xvideos.com.br^
+||redtube.com.br^
+||sexo.com.br^
+!
+! -----------------------------------------------------------------------------
+! Cams / ao vivo
 ! -----------------------------------------------------------------------------
 ||chaturbate.com^
 ||bongacams.com^
-||bongacams2.com^
 ||stripchat.com^
 ||livejasmin.com^
 ||cam4.com^
 ||camsoda.com^
 ||myfreecams.com^
 ||flirt4free.com^
-||imlive.com^
 ||streamate.com^
-||xcams.com^
+||imlive.com^
+||xhamsterlive.com^
 !
 ! -----------------------------------------------------------------------------
-! Premium / studios / paysites
+! Premium / estudios / paysites
 ! -----------------------------------------------------------------------------
 ||onlyfans.com^
 ||fansly.com^
 ||brazzers.com^
-||brazzersnetwork.com^
 ||realitykings.com^
 ||naughtyamerica.com^
 ||bangbros.com^
-||bang.com^
-||digitalplayground.com^
 ||mofos.com^
-||teamskeet.com^
-||nubiles.net^
-||nubilesporn.com^
-||twistys.com^
 ||blacked.com^
 ||tushy.com^
 ||vixen.com^
-||deeper.com^
-||wicked.com^
 ||adulttime.com^
 ||evilangel.com^
 ||kink.com^
+||digitalplayground.com^
+||teamskeet.com^
+||twistys.com^
 ||playboy.com^
 ||penthouse.com^
-||babes.com^
 !
 ! -----------------------------------------------------------------------------
-! Amateur / user-uploaded / social
+! Hentai / anime (muito acessado no Brasil)
 ! -----------------------------------------------------------------------------
-||manyvids.com^
-||clips4sale.com^
-||pornhublive.com^
-||motherless.com^
-||slutload.com^
-||redgifs.com^
 ||rule34.xxx^
 ||rule34video.com^
 ||nhentai.net^
-||hentaihaven.xxx^
 ||hanime.tv^
+||hentaihaven.xxx^
 ||hentai2read.com^
+||redgifs.com^
 ||fapello.com^
 ||coomer.su^
 ||kemono.su^
-||javhd.com^
-||javmost.com^
-||missav.com^
-||supjav.com^
-||javguru.com^
 !
 ! -----------------------------------------------------------------------------
-! Escort / dating / adult classifieds
+! JAV (asiatico)
 ! -----------------------------------------------------------------------------
-||adultfriendfinder.com^
-||ashleymadison.com^
-||flinder.com^
-||xhamsterpremium.com^
+||missav.com^
+||javhd.com^
+||supjav.com^
+||javmost.com^
+||javguru.com^
