@@ -3,8 +3,8 @@
 # Cada IP vem de uma armadilha de porta num roteador MikroTik (tentativa de conexão numa porta sem uso). As listas são cumulativas: nível 1 inclui o 2, que inclui o 3.
 # Homepage: https://github.com/Dailison/AD-DNS-Guard-Blocklists
 # Source: 2D Threat Intelligence — armadilhas em roteadores MikroTik
-# Last modified: 2026-11-15T01:26:07Z
-# Entries: 369
+# Last modified: 2026-11-15T02:11:34Z
+# Entries: 380
 #
 # Uso: um IP por linha, IPv4 e depois IPv6 (comentários começam com #).
 #  - MikroTik: importe para um address-list (veja o README) e descarte na chain raw/prerouting ou input.
@@ -13,6 +13,8 @@
 # Os IPs saem da lista quando o bloqueio expira. Falso positivo? Abra uma issue em https://github.com/Dailison/AD-DNS-Guard-Blocklists/issues
 #
 1.54.60.92
+3.88.0.125
+13.218.174.37
 13.219.1.233
 14.62.126.57
 20.42.84.49
@@ -105,6 +107,7 @@
 51.159.111.44
 51.161.13.52
 52.21.227.35
+54.205.98.41
 58.42.204.29
 58.122.253.78
 58.136.31.208
@@ -117,6 +120,7 @@
 61.242.178.28
 62.108.202.22
 62.210.114.99
+64.62.197.25
 64.62.197.94
 64.89.163.79
 64.89.163.80
@@ -160,8 +164,11 @@
 85.217.149.6
 85.217.149.19
 85.217.149.21
+85.217.149.27
 85.217.149.28
 85.217.149.34
+85.217.149.43
+85.217.149.49
 85.217.149.50
 85.217.149.52
 85.217.149.55
@@ -302,6 +309,7 @@
 185.136.15.17
 185.136.15.90
 185.160.213.98
+185.200.116.72
 185.200.116.76
 185.217.188.134
 185.224.128.16
@@ -345,6 +353,7 @@
 198.235.24.229
 199.165.159.79
 199.165.159.84
+199.165.159.89
 199.165.159.108
 199.165.159.115
 199.165.159.180
@@ -356,6 +365,7 @@
 201.254.14.247
 202.46.28.142
 202.46.28.143
+204.76.203.31
 204.76.203.214
 205.210.31.88
 205.210.31.202
@@ -373,6 +383,7 @@
 216.25.90.111
 216.180.246.85
 216.218.206.119
+216.227.169.246
 217.60.76.26
 217.60.240.206
 217.156.66.18
