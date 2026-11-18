@@ -3,8 +3,8 @@
 # Cada IP vem de uma armadilha de porta num roteador MikroTik (tentativa de conexão numa porta sem uso). As listas são cumulativas: nível 1 inclui o 2, que inclui o 3.
 # Homepage: https://github.com/Dailison/AD-DNS-Guard-Blocklists
 # Source: 2D Threat Intelligence — armadilhas em roteadores MikroTik
-# Last modified: 2026-11-18T14:53:55Z
-# Entries: 348
+# Last modified: 2026-11-18T16:10:31Z
+# Entries: 349
 #
 # Uso: um IP por linha, IPv4 e depois IPv6 (comentários começam com #).
 #  - MikroTik: importe para um address-list (veja o README) e descarte na chain raw/prerouting ou input.
@@ -342,6 +342,7 @@
 200.151.115.99
 201.79.43.222
 201.211.241.208
+201.254.2.18
 202.46.28.142
 202.46.28.143
 202.46.68.46
